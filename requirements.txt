@@ -1,0 +1,7 @@
+
+sounddevice
+scipy
+faster-whisper
+pyttsx3
+edge-tts
+playsound3

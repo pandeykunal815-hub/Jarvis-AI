@@ -1,0 +1,8 @@
+```text
+.venv/
+__pycache__/
+*.pyc
+my_voice.wav
+temp.mp3
+```
+
