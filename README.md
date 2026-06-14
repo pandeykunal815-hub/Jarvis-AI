@@ -57,7 +57,7 @@ Jarvis-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Jarvis-AI.git
+git clone https://github.com/pandeykunal815-hub/Jarvis-AI.git
 ```
 
 ### 2. Move into the project folder
